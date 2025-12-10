@@ -1,6 +1,6 @@
-scikit-learn
 joblib
+scikit-learn
 numpy
 pandas
-seaborn
 metplotlib
+seaborn
