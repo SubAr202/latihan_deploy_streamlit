@@ -1,6 +1,9 @@
 joblib
 scikit-learn
+<<<<<<< HEAD
 numpy
 pandas
 metplotlib
 seaborn
+=======
+>>>>>>> 369146773e782a760752d57974e0ad0acb0c534e
